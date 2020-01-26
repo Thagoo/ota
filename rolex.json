@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "filename": "~`~",
-      "version": "%%",
-      "romtype": "%%%",
-      "size": "%%%",
-      "%%%": %%%,
-      "id": "%%%%",
-      "url": "%%%"
+      "filename": "dummy_ota_by_thago",
+      "version": "69",
+      "romtype": "Aosp-extented.zip",
+      "size": "6969696969",
+      "date": 20202601,
+      "id": "696969696936399279",
+      "url": "https://sourceforge.net/projects/unofficial-roms/files/Nitrogen-OS-10-rolex-20200120.zip/download"
     }
   ]
 }
