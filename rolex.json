@@ -1,25 +1,17 @@
-
 {
   "response": [
     {
-        "maintainer": "Thago",
-        "oem": "Xiaomi",
-        "device": "Redmi 4a",
-        "filename": "AospExtended-v7.0-rolex-20200126-1049-UNOFFICIAL.zip",
-        "url": "https://sourceforge.net/projects/unofficial-roms/files/AospExtended-v7.0-rolex-20200126-1049-UNOFFICIAL.zip/download",
-        "timestamp": 1580130763,
-        "md5": "5c42d02700af23016c724b522d9015e3",
-        "size": 606687362,
-        "version": "7.0",
-        "buildtype": "Stable",
-        "forum": "null",
-        "gapps": "https://opengapps.org",
-        "firmware": "https://link",
-        "modem": "https://link",
-        "bootloader": "https://link",
-        "recovery": "https://link",
-        "paypal": "https://Paypal.me",
-        "telegram": "https://t.me/redmi4aINT"
+      "device_model": "Redmi 4a",
+      "datetime": 20200129,
+      "version": "v3.3",
+      "size": "615991469",
+      "device_codename": "rolex",
+      "url": "https://sourceforge.net/projects/unofficial-roms/files/syberia_rolex-v3.3_20200129-F2-UNOFFICIAL.zip/download",
+      "developer": "Thago",
+      "filename": "syberia_rolex-v3.3-20200129-F2-UNOFFICIAL.zip",
+      "id": "3bcb4c247cd92da125bec0b58b01c87a",
+      "romtype": "UNOFFICIAL",
+      "device_brand": "Xiaomi"
     }
   ]
 }
