@@ -1,0 +1,26 @@
+{
+  "forum_url": "https://forum.xda-developers.com/redmi-4a/development/nitrogen-os-10-rolex-t4038031", 
+  "build_date": "20200428", 
+  "changelog": "====================\n     2020-04-28    \n====================\n May security patch.",
+  "url": "https://sourceforge.net/projects/unofficial-roms/files/Nitrogen-Tmod-10-rolex-20200528.zip/download", 
+  "error": "false", 
+  "filename": "Nitrogen-Tmod-10-rolex-20200528.zip", 
+  "filesize": "676500000", 
+  "md5": "b3c983baf487106fc0a914f5117a5c61", 
+  "donate_url": "paypal.me/Lohit56", 
+  "addons": [
+    {
+      "url": "https://github.com/topjohnwu/Magisk/releases/download/v20.3/Magisk-v20.3.zip", 
+      "summary": "Magisk", 
+      "title": "Magisk"
+    }, 
+    {
+      "url": "https://github.com/topjohnwu/Magisk/releases/download/v20.3/Magisk-uninstaller-20200110.zip", 
+      "summary": "Magisk Uninstaller", 
+      "title": "Magisk"
+    }
+  ], 
+  "developer_url": "https://forum.xda-developers.com/member.php?u=9770731", 
+  "website_url": "https://sourceforge.net/projects/unofficials/files/Nitrogen-OS/", 
+  "developer": "Thago"
+}
