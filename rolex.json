@@ -1,12 +1,12 @@
 {
   "forum_url": "https://forum.xda-developers.com/redmi-4a/development/nitrogen-os-10-rolex-t4038031", 
-  "build_date": "20200428", 
-  "changelog": "====================\n     2020-04-28    \n====================\n May security patch.",
-  "url": "https://sourceforge.net/projects/unofficial-roms/files/Nitrogen-Tmod-10-rolex-20200528.zip/download", 
+  "build_date": "20200816", 
+  "changelog": "====================\n     2020-08-16    \n====================\n August security patch.",
+  "url": "https://sourceforge.net/projects/unofficials/files/Nitrogen-Tmod-10-rolex-20200816.zip/download", 
   "error": "false", 
-  "filename": "Nitrogen-Tmod-10-rolex-20200528.zip", 
-  "filesize": "676500000", 
-  "md5": "b3c983baf487106fc0a914f5117a5c61", 
+  "filename": "Nitrogen-Tmod-10-rolex-20200816.zip", 
+  "filesize": "636500000", 
+  "md5": "59020fd97415f2b960bed2bd014e65f2", 
   "donate_url": "paypal.me/Lohit56", 
   "addons": [
     {
